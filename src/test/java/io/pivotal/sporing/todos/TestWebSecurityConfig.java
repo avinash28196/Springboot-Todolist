@@ -11,7 +11,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import io.pivotal.spring.todos.user.User;
 
 /**
- * @author Matt Stine
+ * @author Avinash
  */
 @Configuration
 @EnableWebSecurity
